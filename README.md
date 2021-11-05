@@ -12,11 +12,11 @@ This is a college management application that can manage students, teachers, cou
 ## Features
 - **Loading Form**
   - When we start the application, the window including progress bar will be implemented.
-![](images/bookshop-save.png)
+![](img/loading-form.png)
 
 - **Administrator Login Form**
   -  If the inputs of name and password are match with specified admin account information, user will be successfully loged in
-![](images/bookshop-search.jpg)
+![](img/login-form.png)
 
 - **Main Menu Form**
   -  If the user successfully logs in, the main menu window will be displayed. It includes the following tabs
@@ -24,25 +24,20 @@ This is a college management application that can manage students, teachers, cou
     2. Teacher Management Tab
     3. Course Management Tab
     4. Fees Management Tab
-![](images/bookshop-update.png)
-![](images/bookshop-updateResult.png)
+![](img/main-form.png)
 
 - **Student Management Tab**
   -  In this tab, the administrator can add / edit / delete the student. All the data is connected to MS Access Database. 
-![](images/bookshop-delete.png)
-![](images/bookshop-deleteResult.png)
+![](img/student-form.png)
 
 - **Teacher Management Tab**
   -  In this tab, the administrator can add / edit / delete the teacher. All the data is connected to MS Access Database. 
-![](images/bookshop-delete.png)
-![](images/bookshop-deleteResult.png)
+![](img/teacher-form.png)
 
-- **Student Management Tab**
+- **Course Management Tab**
   -  In this tab, the administrator can add / edit / delete the courses. All the data is connected to MS Access Database. 
-![](images/bookshop-delete.png)
-![](images/bookshop-deleteResult.png)
+![](img/student-form.png)
 
-- **Student Management Tab**
+- **Fees Management Tab**
   -  In this tab, the administrator can register fee payment for students. All the data is connected to MS Access Database. 
-![](images/bookshop-delete.png)
-![](images/bookshop-deleteResult.png)
+![](img/fee-form.png)

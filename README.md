@@ -20,10 +20,10 @@ This is a college management application that can manage students, teachers, cou
 
 - **Main Menu Form**
   -  If the user successfully logs in, the main menu window will be displayed. It includes the following tabs
-  1. Student Management Tab
-  2. Teacher Management Tab
-  3. Course Management Tab
-  4. Fees Management Tab
+    1. Student Management Tab
+    2. Teacher Management Tab
+    3. Course Management Tab
+    4. Fees Management Tab
 ![](images/bookshop-update.png)
 ![](images/bookshop-updateResult.png)
 
